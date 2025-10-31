@@ -56,7 +56,7 @@ pip install -r requirements.txt
 python [app.py](http://app.py/)
 ```
 
-![image.png](/B3dev-TP_docker_basic_2/media/image(1).png)
+![image.png](media/image(1).png)
 
 # Étape 1 — Découvrir son moteur Docker
 
@@ -412,7 +412,7 @@ Objectif : extraire la liste des citations vers un volume monté pour pouvoir la
     Ceci est une nouvelle quote.
     ```
     
-    ![image.png](/B3dev-TP_docker_basic_2/media/image.png)
+    ![image.png](media/image.png)
     
 
 | Aspect | COPY | -v (volume) |
@@ -524,4 +524,4 @@ Identifie les instructions qui pèsent le plus.
         - Gestion des données dynamiques → solution : bind mounts pour éditer les fichiers de l’hôte sans reconstruire l’image.
     - Une capture d’écran de l’API en fonctionnement
 
-![image.png](/B3dev-TP_docker_basic_2/media/image(2).png)
+![image.png](<media/image(2).png)
