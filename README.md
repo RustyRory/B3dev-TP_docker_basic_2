@@ -524,4 +524,4 @@ Identifie les instructions qui pèsent le plus.
         - Gestion des données dynamiques → solution : bind mounts pour éditer les fichiers de l’hôte sans reconstruire l’image.
     - Une capture d’écran de l’API en fonctionnement
 
-![image.png](<media/image(2).png)
+![image.png](media/image(2).png)
